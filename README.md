@@ -1,3 +1,7 @@
+# Blog
+
+http://tetuo41.com/?p=76
+
 # Ember-fire-study
 
 This README outlines the details of collaborating on this Ember application.
